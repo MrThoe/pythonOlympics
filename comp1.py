@@ -1,3 +1,14 @@
+"""
+For these competition files, each student creates their own file named:
+comp1.py
+comp2.py
+etc....
+
+I will run the code for them first, then give them time to talk, then start the round.
+"""
+
+#Competition file 1
+
 import turtle
 from random import *
 

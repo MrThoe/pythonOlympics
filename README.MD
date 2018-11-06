@@ -9,7 +9,8 @@ For these Python Olypmics the followign rules are applied:
 5) Python Documentation page is the ONLY RESOURCE allowed:
     https://docs.python.org/3.3/library/turtle.html?highlight=turtle
     
-Points:
+#Points:#
+
 ***Only once ALL members screens have the correct image are points awarded***
 1) First place receives MAX POINTS
 2) Each team following gets one less point per place behind 1st.
